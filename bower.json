@@ -1,0 +1,13 @@
+{
+	"name": "ng-lb-tools",
+	"version": "0.1.0",
+    "dependencies": {},
+	"ignore": [
+		"node_modules",
+		"src",
+		"bower.json",
+		"Gruntfile.js",
+		"package.json",
+		"README.md"
+	]
+}

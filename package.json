@@ -1,0 +1,17 @@
+{
+  "name": "ng-lb-tools",
+  "version": "0.1.0",
+  "author": "Leeroy Brun <leeroy.brun@gmail.com>",
+  "description": "A simple list of useful AngularJS helpers/tools (directives, services, etc)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leeroybrun/angular-tools.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-contrib-concat": "^0.4.0",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-uglify": "^0.4.0"
+  }
+}
