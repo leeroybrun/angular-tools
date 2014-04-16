@@ -9,7 +9,7 @@ A simple list of useful AngularJS helpers (directives, services, etc)
 
 Directive to reload images that failed to load. It retries 4 times (with 3s delay between them) before aborting...
 
-Usage : <img src-no-fail="folder/image_{{id}}.jpg">
+Usage : `<img src-no-fail="folder/image_{{id}}.jpg">`
 
 ## Filters
 
@@ -17,7 +17,7 @@ Usage : <img src-no-fail="folder/image_{{id}}.jpg">
 
 Simple replacement for ng-bind-html-unsafe
 
-Usage : <div ng-bind-html="myScope.myHtml | to_trusted"></div>
+Usage : `<div ng-bind-html="myScope.myHtml | to_trusted"></div>`
 
 
 
