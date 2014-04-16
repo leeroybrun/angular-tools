@@ -13,7 +13,7 @@ Usage : `<img src-no-fail="folder/image_{{id}}.jpg">`
 
 ## Filters
 
-### to_tructed
+### to_trusted
 
 Simple replacement for ng-bind-html-unsafe
 
